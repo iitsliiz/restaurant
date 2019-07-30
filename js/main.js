@@ -1,0 +1,1 @@
+alert('To view prices click on the images, to place orders please contact us!!')
