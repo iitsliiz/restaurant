@@ -48,7 +48,7 @@ html {
   }
   
   .navItem{ 
-    background-image: url('/images/bananaleaf.png'); /* The image used */
+    background-image: url('images/bananaleaf.png'); /* The image used */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
     background-position: center; /* Center the image */
@@ -149,6 +149,8 @@ html {
   .lady{
     float: right;
   }
+
+ 
 
   /* jquery*/
   #logIn {
